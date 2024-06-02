@@ -4,6 +4,16 @@
   box-sizing: border-box;
 }
 
+.fa-brands {
+  font-size: 32px;
+}
+
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
+
 ul {
   margin: 50px auto;
   list-style: none;
